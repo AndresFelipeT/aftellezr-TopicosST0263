@@ -24,12 +24,3 @@ Se usa AWS como plataforma para poder instanciar lo que sera nuestro lugar de tr
 
 ## opcionalmente - si quiere mostrar resultados o pantallazos 
 Vea los archivos en la pantalla
-
-
-# referencias:
-<debemos siempre reconocer los créditos de partes del código que reutilizaremos, así como referencias a youtube, o referencias bibliográficas utilizadas para desarrollar el proyecto o la actividad>
-## sitio1-url 
-## sitio2-url
-## url de donde tomo info para desarrollar este proyecto
-
-#### versión README.md -> 1.0 (2022-agosto)
